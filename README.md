@@ -3,8 +3,8 @@
 
 Started logging connection errors
 
-1. [connection error]( "MouseOver Hover Title")
-2. [connection error]( "MouseOver Hover Title")
+1. [connection error](https://github.com/bent-mortensen/ED/tree/master/from%20supercruise%20to%20station/30-01-2019 "MouseOver Hover Title")
+2. [connection error](https://github.com/bent-mortensen/ED/tree/master/change%20ship/30-01-2019 "MouseOver Hover Title")
 3. 
 
 1. First ordered list item
