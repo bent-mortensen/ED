@@ -1,5 +1,6 @@
 # ED
 
+Bug report on frontier forum [link](https://forums.frontier.co.uk/showthread.php/475203-Connection-error)  
 
 Started logging connection errors, each log is from starting the launcher in windows, until error occured, then game is closed and launcher is closed.
 
